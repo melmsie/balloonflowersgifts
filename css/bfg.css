@@ -1,0 +1,30 @@
+html,body{font-family:'News Cycle',sans-serif;font-size:108%;max-width:100%;overflow-x:hidden}
+a:link{text-decoration:none;color:#000}
+a:visited{text-decoration:none;color:#000}
+a:hover{text-decoration:none;color:#232323}
+a:active{text-decoration:underline;color:#000}
+.mobile-margin-fix{margin:25px}
+.space{padding:20px 10px}
+li{list-style:none}
+.logo{height:50px;width:auto}
+#home{padding:85px 0;margin:25px 0 0;background-image:url(../img/winter.jpg);background-size:cover}
+#call-btn{margin:15px 0}
+.service-wells{margin-top:50px;margin-bottom:50px}
+#services{background-color:#9ddeda;padding:50px 0}
+.mobile-fix{margin-left:20px;margin-top:20px}
+#reviews{background-color:#ff8080;padding:50px 0}
+.rating{padding:50px 0 25px}
+#hours{background-color:#c4ffde;padding:50px 0}
+#balloons{margin:auto;padding-left:px}
+.jumbotron{background:rgba(216,216,216,0.5);margin:40px}
+.container-fluid{padding-right:25px;padding-left:0}
+.carousel{max-height:478px;max-width:269px;margin:auto}
+.b-text{margin:105px 0;border:2px solid #000;border-radius:1%}
+.fix{margin:35px 10px}
+.color{background-color:#f5f5dc}
+hr{border-top:4px double #8c8b8b;text-align:center}
+hr:after{content:'\002665';display:inline-block;position:relative;top:-20px;padding:0 10px;background:#f5f5dc;color:#8c8b8b;font-size:18px}
+.navbar-brand{font-size:120%}
+.footy{text-align:center;font-size:80%;border:1px solid #000}
+.footy-okay{padding-top:10px}
+footer{background-color:#f8f8f8}
